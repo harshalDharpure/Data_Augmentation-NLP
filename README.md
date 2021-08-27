@@ -7,7 +7,10 @@ we might have optimal machine learning algorithm to solve our problem. But once 
 Here we are dealing with various NLP Data Augmentation technique :-
 
 Data Augmentation using Word Embeddings
+
 Data Augmentation using BERT
+
 Data Augmentation using Back Translation
+
 Data Augmentation using T5
 
